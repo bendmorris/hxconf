@@ -1,0 +1,9 @@
+{
+	"name": "hxconf",
+	"url" : "https://github.com/bendmorris/hxconf",
+	"license": "MIT",
+	"tags": [],
+	"description": "INI-style sectioned configuration parser.",
+	"version": "0.1.0",
+	"contributors": ["bendmorris"]
+}
